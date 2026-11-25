@@ -3,7 +3,7 @@
 Writes a single original excuse line (at most 20 words) to /output/entry.txt.
 """
 
-ENTRY = "Hi boss, my boiler burst overnight and the plumber can't come till noon, can I work from home today?"
+ENTRY = "Hi boss, my car was towed overnight and the impound lot opens at noon, can I work from home today?"
 
 
 def main():
