@@ -5,7 +5,7 @@
 
 Entry for the make.fun bounty "The Excuse That Almost Works": the single line a gamer texts the boss to get out of work during GTA 6 launch week.
 
-> "Hi boss, my car was towed overnight and the impound lot opens at noon, can I work from home today?"
+> "Hi boss, my dog locked me out with my laptop inside, so I work from the porch, on the phone."
 
 Word count: 20 (limit: 20).
 
