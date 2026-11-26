@@ -5,9 +5,9 @@
 
 Entry for the make.fun bounty "The Excuse That Almost Works": the single line a gamer texts the boss to get out of work during GTA 6 launch week.
 
-> "Hi boss, my dog locked me out with my laptop inside, so I work from the porch, on the phone."
+> "My alarm joined a union and refuses mornings without overtime pay, so I negotiated and lost."
 
-Word count: 20 (limit: 20).
+Word count: 16 (limit: 20).
 
 ## Run
 
